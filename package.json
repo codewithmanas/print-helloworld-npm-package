@@ -1,0 +1,18 @@
+{
+  "name": "print-helloworld-npm-package",
+  "version": "1.0.0",
+  "description": "This package will print hello world into your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/codewithmanas/print-helloworld-npm-package.git)"
+  },
+  "keywords": [
+    "print-helloworld"
+  ],
+  "author": "codewithmanas",
+  "license": "ISC"
+}
